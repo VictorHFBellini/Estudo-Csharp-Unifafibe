@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\PessoaPOO\bin\Debug\PessoaPOO.exe.config
+C:\Users\victo\source\repos\PessoaPOO\bin\Debug\PessoaPOO.exe
+C:\Users\victo\source\repos\PessoaPOO\bin\Debug\PessoaPOO.pdb
+C:\Users\victo\source\repos\PessoaPOO\obj\Debug\PessoaPOO.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\PessoaPOO\obj\Debug\PessoaPOO.Form1.resources
+C:\Users\victo\source\repos\PessoaPOO\obj\Debug\PessoaPOO.Properties.Resources.resources
+C:\Users\victo\source\repos\PessoaPOO\obj\Debug\PessoaPOO.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\PessoaPOO\obj\Debug\PessoaPOO.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\PessoaPOO\obj\Debug\PessoaPOO.exe
+C:\Users\victo\source\repos\PessoaPOO\obj\Debug\PessoaPOO.pdb
