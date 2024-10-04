@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\AppTryCatchFinally\obj\Debug\AppTryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\AppTryCatchFinally\obj\Debug\AppTryCatchFinally.frmTryCatchFinally.resources
+C:\Users\victo\source\repos\AppTryCatchFinally\obj\Debug\AppTryCatchFinally.Properties.Resources.resources
+C:\Users\victo\source\repos\AppTryCatchFinally\obj\Debug\AppTryCatchFinally.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\AppTryCatchFinally\obj\Debug\AppTryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AppTryCatchFinally\bin\Debug\AppTryCatchFinally.exe.config
+C:\Users\victo\source\repos\AppTryCatchFinally\bin\Debug\AppTryCatchFinally.exe
+C:\Users\victo\source\repos\AppTryCatchFinally\bin\Debug\AppTryCatchFinally.pdb
+C:\Users\victo\source\repos\AppTryCatchFinally\obj\Debug\AppTryCatchFinally.exe
+C:\Users\victo\source\repos\AppTryCatchFinally\obj\Debug\AppTryCatchFinally.pdb

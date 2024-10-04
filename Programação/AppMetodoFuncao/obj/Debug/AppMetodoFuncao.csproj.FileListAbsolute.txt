@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\AppMetodoFuncao\obj\Debug\AppMetodoFuncao.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\AppMetodoFuncao\obj\Debug\AppMetodoFuncao.Form1.resources
+C:\Users\victo\source\repos\AppMetodoFuncao\obj\Debug\AppMetodoFuncao.Properties.Resources.resources
+C:\Users\victo\source\repos\AppMetodoFuncao\obj\Debug\AppMetodoFuncao.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\AppMetodoFuncao\obj\Debug\AppMetodoFuncao.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AppMetodoFuncao\bin\Debug\AppMetodoFuncao.exe.config
+C:\Users\victo\source\repos\AppMetodoFuncao\bin\Debug\AppMetodoFuncao.exe
+C:\Users\victo\source\repos\AppMetodoFuncao\bin\Debug\AppMetodoFuncao.pdb
+C:\Users\victo\source\repos\AppMetodoFuncao\obj\Debug\AppMetodoFuncao.exe
+C:\Users\victo\source\repos\AppMetodoFuncao\obj\Debug\AppMetodoFuncao.pdb

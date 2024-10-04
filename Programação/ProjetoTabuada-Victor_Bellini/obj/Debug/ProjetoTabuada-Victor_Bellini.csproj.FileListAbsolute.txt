@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\bin\Debug\ProjetoTabuada-Victor_Bellini.exe.config
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\bin\Debug\ProjetoTabuada-Victor_Bellini.exe
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\bin\Debug\ProjetoTabuada-Victor_Bellini.pdb
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\obj\Debug\ProjetoTabuada-Victor_Bellini.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\obj\Debug\ProjetoTabuada_Victor_Bellini.Form1.resources
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\obj\Debug\ProjetoTabuada_Victor_Bellini.Properties.Resources.resources
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\obj\Debug\ProjetoTabuada-Victor_Bellini.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\obj\Debug\ProjetoTabuada-Victor_Bellini.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\obj\Debug\ProjetoTabuada-Victor_Bellini.exe
+C:\Users\victo\source\repos\ProjetoTabuada-Victor_Bellini\obj\Debug\ProjetoTabuada-Victor_Bellini.pdb

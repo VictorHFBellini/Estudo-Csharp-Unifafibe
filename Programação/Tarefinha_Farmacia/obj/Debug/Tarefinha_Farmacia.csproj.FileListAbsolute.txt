@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\Tarefinha_Farmacia\bin\Debug\Tarefinha_Farmacia.exe.config
+C:\Users\victo\source\repos\Tarefinha_Farmacia\bin\Debug\Tarefinha_Farmacia.exe
+C:\Users\victo\source\repos\Tarefinha_Farmacia\bin\Debug\Tarefinha_Farmacia.pdb
+C:\Users\victo\source\repos\Tarefinha_Farmacia\obj\Debug\Tarefinha_Farmacia.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Tarefinha_Farmacia\obj\Debug\Tarefinha_Farmacia.frmPrincipal.resources
+C:\Users\victo\source\repos\Tarefinha_Farmacia\obj\Debug\Tarefinha_Farmacia.Properties.Resources.resources
+C:\Users\victo\source\repos\Tarefinha_Farmacia\obj\Debug\Tarefinha_Farmacia.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Tarefinha_Farmacia\obj\Debug\Tarefinha_Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Tarefinha_Farmacia\obj\Debug\Tarefinha_Farmacia.exe
+C:\Users\victo\source\repos\Tarefinha_Farmacia\obj\Debug\Tarefinha_Farmacia.pdb
+C:\Users\victo\source\repos\Tarefinha_Farmacia\obj\Debug\Tarefinha_Farmacia.frmMedicamentos.resources

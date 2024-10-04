@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\AppMnaipularArquivo\bin\Debug\AppMnaipularArquivo.exe.config
+C:\Users\victo\source\repos\AppMnaipularArquivo\bin\Debug\AppMnaipularArquivo.exe
+C:\Users\victo\source\repos\AppMnaipularArquivo\bin\Debug\AppMnaipularArquivo.pdb
+C:\Users\victo\source\repos\AppMnaipularArquivo\obj\Debug\AppMnaipularArquivo.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\AppMnaipularArquivo\obj\Debug\AppMnaipularArquivo.Form1.resources
+C:\Users\victo\source\repos\AppMnaipularArquivo\obj\Debug\AppMnaipularArquivo.Properties.Resources.resources
+C:\Users\victo\source\repos\AppMnaipularArquivo\obj\Debug\AppMnaipularArquivo.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\AppMnaipularArquivo\obj\Debug\AppMnaipularArquivo.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AppMnaipularArquivo\obj\Debug\AppMnaipularArquivo.exe
+C:\Users\victo\source\repos\AppMnaipularArquivo\obj\Debug\AppMnaipularArquivo.pdb

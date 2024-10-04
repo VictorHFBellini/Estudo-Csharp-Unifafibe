@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\AppTipoDados\bin\Debug\AppTipoDados.exe.config
+C:\Users\victo\source\repos\AppTipoDados\bin\Debug\AppTipoDados.exe
+C:\Users\victo\source\repos\AppTipoDados\bin\Debug\AppTipoDados.pdb
+C:\Users\victo\source\repos\AppTipoDados\obj\Debug\AppTipoDados.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\AppTipoDados\obj\Debug\AppTipoDados.Form1.resources
+C:\Users\victo\source\repos\AppTipoDados\obj\Debug\AppTipoDados.Properties.Resources.resources
+C:\Users\victo\source\repos\AppTipoDados\obj\Debug\AppTipoDados.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\AppTipoDados\obj\Debug\AppTipoDados.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AppTipoDados\obj\Debug\AppTipoDados.exe
+C:\Users\victo\source\repos\AppTipoDados\obj\Debug\AppTipoDados.pdb

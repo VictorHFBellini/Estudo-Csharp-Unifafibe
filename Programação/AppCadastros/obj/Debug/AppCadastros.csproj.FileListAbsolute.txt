@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\AppCadastros\bin\Debug\AppCadastros.exe.config
+C:\Users\victo\source\repos\AppCadastros\bin\Debug\AppCadastros.exe
+C:\Users\victo\source\repos\AppCadastros\bin\Debug\AppCadastros.pdb
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.Properties.Resources.resources
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.exe
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.pdb
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.frmPrincipal.resources
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.frmCadClientes.resources
+C:\Users\victo\source\repos\AppCadastros\obj\Debug\AppCadastros.frmCadProdutos.resources
