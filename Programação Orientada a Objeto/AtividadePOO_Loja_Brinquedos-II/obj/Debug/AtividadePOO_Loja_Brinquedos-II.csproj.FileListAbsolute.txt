@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\bin\Debug\AtividadePOO_Loja_Brinquedos-II.exe.config
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\bin\Debug\AtividadePOO_Loja_Brinquedos-II.exe
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\bin\Debug\AtividadePOO_Loja_Brinquedos-II.pdb
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos-II.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos_II.frmPrincipal.resources
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos_II.Properties.Resources.resources
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos-II.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos-II.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos-II.exe
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos-II.pdb
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos_II.frmCad_Brinquedos.resources
+C:\Users\victo\source\repos\AtividadePOO_Loja_Brinquedos-II\obj\Debug\AtividadePOO_Loja_Brinquedos_II.frmVis_Brinquedos.resources
